@@ -1,0 +1,10 @@
+# keep the repo to imagery and attribution only
+*.py
+*.docx
+*.pdf
+data/
+out/
+.DS_Store
+Thumbs.db
+__pycache__/
+.env
